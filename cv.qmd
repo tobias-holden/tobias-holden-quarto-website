@@ -1,0 +1,119 @@
+---
+title: "CV / Resume"
+title-block-banner: true
+format:
+  html:
+    toc: true
+    toc-depth: 4
+---
+<center>
+# Tobias M. Holden
+</center>
+
+Tobias M. Holden is a graduate student in the Medical Scientist Training Program at Northwestern University in Chicago, Illinois.
+
+<center>
+## Education
+</center>
+::: {.callout-note icon="false"}
+## Northwestern University Medical Scientist Training Program
+**M.D.** - Doctor of Medicine [2019-2027*]{style="float:right"}
+
+**Ph.D.** - Health & Biomedical Informatics [2021-2025*]{style="float:right"}
+:::
+::: {.callout-note icon="false"}
+## Icahn School of Medicine at Mount Sinai
+**NIH PREP** - Post-baccalaureate Research Education Program [2017-2018]{style="float:right"}
+:::
+::: {.callout-note icon="false"}
+## Yale University
+**B.S.** - Quantitative Biology [2013-2017]{style="float:right"}
+:::
+::: {.callout-note icon="false"}
+## South Carolina Governor's School for Science and Mathematics
+**High School** [2011-2013]{style="float:right"}
+:::
+
+<center>
+## Research
+</center>
+
+::: {.callout-tip icon="false"}
+## Applied Malaria Modeling
+*Northwestern University - Institute for Global Health* [2021 - Now]{style="float:right;"}\
+Ph.D. thesis with Dr. Jaline Gerardin
+:::
+::: {.callout-tip icon="false"}
+## COVID-19 Disparities
+*Northwestern University - Preventive Medicine* [2020 - 2022]{style="float:right;"}\
+Ph.D. rotation with Dr. Jaline Gerardin
+:::
+::: {.callout-tip icon="false"}
+## Adolescent Brain & Cognitive Development
+*Medical Univeristy of South Carolina - Addiction Sciences* [2018 - 2019]{style="float:right;"}\
+Research Assistant with Dr. Lindsay Squeglia
+:::
+::: {.callout-tip icon="false"}
+## Cardiac Electrophysiology Modeling
+*Icahn School of Medicine at Mount Sinai - Pharmacological Sciences* [2017 - 2018]{style="float:right;"}\
+NIH PREP Scholar with Dr. Eric Sobie
+:::
+::: {.callout-tip icon="false"}
+## Modeling Collective Bacterial Migration
+*Yale University - Molecular, Cellular, and Developmental Biology* [2016 - 2017]{style="float:right;"}\
+B.S. thesis with Dr. Thierry Emonet
+:::
+::: {.callout-tip icon="false"}
+## Reproductive Stem Cell Biology
+*Yale University - Stem Cell Center* [2015 - 2016]{style="float:right;"}\
+STARS Summer Research Fellow with Dr. Winifred Mak
+:::
+
+<center>
+## Awards & Honors
+</center>
+
+::: {.callout-important icon="false"}
+## 2022
+
+-   ACM SIGHPC Computational and Data Science Fellowship
+-   NIH NIAID National Research Service Award (NRSA) Individual Predoctoral Fellowship
+-   MIDAS Annual Meeting Travel Award
+:::
+::: {.callout-important icon="false"}
+## 2019
+
+-   Northwestern MSTP Heller Scholarship
+:::
+::: {.callout-important icon="false"}
+## 2018
+
+-   NIH PREP Regional Symposium: Best Poster
+:::
+::: {.callout-important icon="false"}
+## 2017
+
+-   NIH PREP Scholarship
+-   Yale College Nakanishi Prize (*Nominee*)
+-   Yale College Creative and Performing Arts Grant - Digital Photography
+:::
+::: {.callout-important icon="false"}
+## 2016
+
+-   Mellon Grant for Undergraduate Research
+:::
+::: {.callout-important icon="false"}
+## 2015
+
+-   Yale Science Technology and Research Scholars (STARS) Summer Fellowship
+:::
+::: {.callout-important icon="false"}
+## 2013
+
+-   SC Junior Academy of Science: Best Oral Presentation in Physiology & Health
+:::
+::: {.callout-important icon="false"}
+## 2012
+
+-   Hoffman-La Roche Research Exchange Scholarship Program (RESP)
+:::

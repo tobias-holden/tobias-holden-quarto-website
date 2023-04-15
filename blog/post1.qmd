@@ -1,0 +1,9 @@
+---
+title: "Blog Post 1"
+title-block-banner: "#373A3C"
+format:
+  html:
+    toc: true
+---
+
+My first post

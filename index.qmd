@@ -1,11 +1,8 @@
 ---
-title: "tobias-holden-quarto-website"
+title: " "
+about:
+  template: jolla
 ---
 
-This is a Quarto website.
+Tobias M. Holden is a graduate student in the Medical Scientist Training Program at Northwestern University.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```

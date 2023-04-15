@@ -3,16 +3,22 @@ project:
   output-dir: docs
 
 website:
-  title: "tobias-holden-quarto-website"
+  title: "Tobias M. Holden"
   navbar:
+    background: primary
+    foreground: light
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - href: cv.qmd
+        text: "CV"
+      - text: "Research"
+        menu: 
+          - research/research_covid.qmd
+          - research/research_malaria.qmd
+      - blog.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: simplex
     css: styles.css
     toc: true
 

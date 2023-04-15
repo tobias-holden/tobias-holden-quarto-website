@@ -1,16 +1,86 @@
 [
   {
+    "objectID": "research/research_malaria.html",
+    "href": "research/research_malaria.html",
+    "title": "Malaria",
+    "section": "",
+    "text": "My Research on Plasmodium falciparum malaria"
+  },
+  {
+    "objectID": "research/research_covid.html",
+    "href": "research/research_covid.html",
+    "title": "COVID-19",
+    "section": "",
+    "text": "My Research on COVID-19"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "tobias-holden-quarto-website",
+    "title": "Tobias M. Holden",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Tobias M. Holden is a graduate student in the Medical Scientist Training Program at Northwestern University."
+  },
+  {
+    "objectID": "blog/post1.html",
+    "href": "blog/post1.html",
+    "title": "Blog Post 1",
+    "section": "",
+    "text": "My first post"
+  },
+  {
+    "objectID": "blog/post2.html",
+    "href": "blog/post2.html",
+    "title": "Blog Post 2",
+    "section": "",
+    "text": "My second post"
+  },
+  {
+    "objectID": "blog/post3.html",
+    "href": "blog/post3.html",
+    "title": "Blog Post 3",
+    "section": "",
+    "text": "My third post"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Tobias M. Holden",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Tobias"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Blog Post 1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBlog Post 2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBlog Post 3\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV / Resume",
+    "section": "",
+    "text": "Tobias M. Holden is a graduate student in the Medical Scientist Training Program at Northwestern University in Chicago, Illinois."
+  },
+  {
+    "objectID": "cv.html#research",
+    "href": "cv.html#research",
+    "title": "CV / Resume",
+    "section": "Research",
+    "text": "Research"
+  },
+  {
+    "objectID": "cv.html#awards-honors",
+    "href": "cv.html#awards-honors",
+    "title": "CV / Resume",
+    "section": "Awards & Honors",
+    "text": "Awards & Honors"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV / Resume",
+    "section": "Education",
+    "text": "Education"
   }
 ]
