@@ -42,25 +42,18 @@
     "text": "My third post"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Tobias M. Holden",
-    "section": "",
-    "text": "Tobias"
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
-    "section": "",
-    "text": "Blog Post 1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBlog Post 2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBlog Post 3\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "CV / Resume",
     "section": "",
     "text": "Tobias M. Holden is a graduate student in the Medical Scientist Training Program at Northwestern University in Chicago, Illinois."
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV / Resume",
+    "section": "Education",
+    "text": "Education"
   },
   {
     "objectID": "cv.html#research",
@@ -77,10 +70,10 @@
     "text": "Awards & Honors"
   },
   {
-    "objectID": "cv.html#education",
-    "href": "cv.html#education",
-    "title": "CV / Resume",
-    "section": "Education",
-    "text": "Education"
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Blog Post 1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBlog Post 2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBlog Post 3\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
