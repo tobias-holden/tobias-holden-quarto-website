@@ -1,6 +1,6 @@
 ---
 title: "Modeling a Trial of Mass Testing, Tracking, and Treatment with Conventional vs. Ultrasensitive Rapid Diagnostic Tests"
-title-block-banner: black
+title-block-banner: purple
 subtitle: "Greater Accra, Ghana"
 author: "" 
 abstract: "Nxtek project brief"
