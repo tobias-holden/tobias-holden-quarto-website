@@ -8,5 +8,4 @@ doi : ""
 format:
   html:
     toc: true
-    abstract-title: none
 ---
