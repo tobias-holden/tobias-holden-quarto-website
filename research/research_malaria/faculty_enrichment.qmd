@@ -1,0 +1,12 @@
+---
+title: "Faculty Enrichment Program in Applied Malaria Modeling"
+title-block-banner: black
+subtitle: "Chicago, Illinois"
+author: "" 
+doi : ""
+abstract: "An intensive in-person training program for Sub-Saharan modeling faculty"
+format:
+  html:
+    toc: true
+    abstract-title: none
+---

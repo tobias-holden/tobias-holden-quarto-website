@@ -1,0 +1,12 @@
+---
+title: "EMOD Agent-Based Model Recalibration"
+title-block-banner: black
+subtitle: "Basel, Switzerland"
+author: "" 
+doi : ""
+abstract: "Emulator-based Bayesian optimization for efficient multi-objective calibration"
+format:
+  html:
+    toc: true
+    abstract-title: none
+---

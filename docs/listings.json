@@ -1,5 +1,23 @@
 [
   {
+    "listing": "/research/research_malaria.html",
+    "items": [
+      "/research/research_malaria/emod_recalibration.html",
+      "/research/research_malaria/faculty_enrichment.html",
+      "/research/research_malaria/nxtek.html",
+      "/research/research_malaria/indie.html"
+    ]
+  },
+  {
+    "listing": "/research/research_covid.html",
+    "items": [
+      "/research/research_covid/pub4.html",
+      "/research/research_covid/pub2.html",
+      "/research/research_covid/pub3.html",
+      "/research/research_covid/pub1.html"
+    ]
+  },
+  {
     "listing": "/blog.html",
     "items": [
       "/blog/post1.html",

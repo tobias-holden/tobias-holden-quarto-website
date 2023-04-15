@@ -1,9 +1,20 @@
 ---
 title: "COVID-19"
 title-block-banner: black
-format:
-  html:
-    toc: true
+listing:
+  type: grid
+  contents: research_covid/*.qmd
+  fields: [title, author, subtitle, date]
+  grid-columns: 1
 ---
 
-My Research on COVID-19
+### Overview
+
+Narrative
+
+Research aims
+
+1.  
+2.  
+
+### Publications

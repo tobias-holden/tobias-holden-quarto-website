@@ -1,0 +1,12 @@
+---
+title: "Quantifying the Potential Contribution of Asymptomatic Screening, Testing, and Treatment to Malaria Control and Elimination"
+title-block-banner: black
+subtitle: "Sapone, Burkina Faso"
+author: "" 
+doi : ""
+abstract: "INDIE-1a project brief"
+format:
+  html:
+    toc: true
+    abstract-title: none
+---

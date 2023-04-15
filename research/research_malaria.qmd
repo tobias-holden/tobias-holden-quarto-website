@@ -1,9 +1,13 @@
 ---
 title: "Malaria"
 title-block-banner: black
-format:
-  html:
-    toc: true
+listing:
+  type: grid
+  contents: research_malaria/*.qmd
+  fields: [title, subtitle, abstract]
+  grid-columns: 2
 ---
 
-My Research on *Plasmodium falciparum* malaria
+My research on *Plasmodium falciparum* malaria
+
+

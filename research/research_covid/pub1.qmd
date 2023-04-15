@@ -1,0 +1,13 @@
+---
+title: "Tracking changes in SARS-CoV-2 transmission with a novel outpatient sentinel surveillance system in Chicago, USA"
+subtitle: "Nature Communications"
+author: "Richardson, R., Jorgensen, E., Arevalo, P. et al." 
+doi : "https://doi.org/10.1038/s41467-022-33317-6"
+date: 2022-09-22
+abstract: "Public health indicators typically used for COVID-19 surveillance can be biased or lag changing community transmission patterns. In this study, we investigate whether sentinel surveillance of recently symptomatic individuals receiving outpatient diagnostic testing for SARS-CoV-2 could accurately assess the instantaneous reproductive number R(t) and provide early warning of changes in transmission. We use data from community-based diagnostic testing sites in the United States city of Chicago. Patients tested at community-based diagnostic testing sites between September 2020 and June 2021, and reporting symptom onset within four days preceding their test, formed the sentinel population. R(t) calculated from sentinel cases agreed well with R(t) from other indicators. Retrospectively, trends in sentinel cases did not precede trends in COVID-19 hospital admissions by any identifiable lead time. In deployment, sentinel surveillance held an operational recency advantage of nine days over hospital admissions. The promising performance of opportunistic sentinel surveillance suggests that deliberately designed outpatient sentinel surveillance would provide robust early warning of increasing transmission."
+title-block-banner: black
+format:
+  html:
+    toc: true
+---
+
