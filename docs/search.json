@@ -1,10 +1,52 @@
 [
   {
+    "objectID": "research/research_malaria/faculty_enrichment.html",
+    "href": "research/research_malaria/faculty_enrichment.html",
+    "title": "Faculty Enrichment Program in Applied Malaria Modeling",
+    "section": "",
+    "text": "Motivation\n\n\nMethods\n\n\nResults\n\n\nConclusions"
+  },
+  {
+    "objectID": "research/research_malaria/emod_recalibration.html",
+    "href": "research/research_malaria/emod_recalibration.html",
+    "title": "EMOD Agent-Based Model Recalibration",
+    "section": "",
+    "text": "Agent-based models like have long simulation run-times and large numbers of unknown input parameters, making them difficult to calibrate with iterative sampling-based algorithms\n\nHighly irregular, multi-dimensional goodness-of-fit space: local optimum “traps”\n\nCurse of dimensionality: # of evaluations needed scales exponentially with # parameters\n\nThese issues are compounded when there are multiple fitting objectives."
+  },
+  {
+    "objectID": "research/research_malaria/emod_recalibration.html#method-1",
+    "href": "research/research_malaria/emod_recalibration.html#method-1",
+    "title": "EMOD Agent-Based Model Recalibration",
+    "section": "Method 1",
+    "text": "Method 1"
+  },
+  {
+    "objectID": "research/research_malaria/emod_recalibration.html#method-2",
+    "href": "research/research_malaria/emod_recalibration.html#method-2",
+    "title": "EMOD Agent-Based Model Recalibration",
+    "section": "Method 2",
+    "text": "Method 2"
+  },
+  {
+    "objectID": "research/research_malaria/emod_recalibration.html#outcome-1",
+    "href": "research/research_malaria/emod_recalibration.html#outcome-1",
+    "title": "EMOD Agent-Based Model Recalibration",
+    "section": "Outcome 1",
+    "text": "Outcome 1"
+  },
+  {
+    "objectID": "research/research_malaria/emod_recalibration.html#outcome-2",
+    "href": "research/research_malaria/emod_recalibration.html#outcome-2",
+    "title": "EMOD Agent-Based Model Recalibration",
+    "section": "Outcome 2",
+    "text": "Outcome 2"
+  },
+  {
     "objectID": "research/research_malaria.html",
     "href": "research/research_malaria.html",
     "title": "Malaria",
     "section": "",
-    "text": "My research on Plasmodium falciparum malaria\n\n\n\n\n\n\n\n\n\n\n\nEMOD Agent-Based Model Recalibration\n\n\nBasel, Switzerland\n\n\n\n\n\nabstract\n\n\nEmulator-based Bayesian optimization for efficient multi-objective calibration\n\n\n\n\n\n\n\n\n\n\n\n\n\nFaculty Enrichment Program in Applied Malaria Modeling\n\n\nChicago, Illinois\n\n\n\n\n\nabstract\n\n\nAn intensive in-person training program for Sub-Saharan modeling faculty\n\n\n\n\n\n\n\n\n\n\n\n\n\nModeling a Trial of Mass Testing, Tracking, and Treatment with Conventional vs. Ultrasensitive Rapid Diagnostic Tests\n\n\nGreater Accra, Ghana\n\n\n\n\n\nabstract\n\n\nNxtek project brief\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuantifying the Potential Contribution of Asymptomatic Screening, Testing, and Treatment to Malaria Control and Elimination\n\n\nSapone, Burkina Faso\n\n\n\n\n\nabstract\n\n\nINDIE-1a project brief\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "My research on Plasmodium falciparum malaria\n\n\n\n\n\n\n\n\n\n\n\nEMOD Agent-Based Model Recalibration\n\n\nBasel, Switzerland\n\n\n\n\n\nabstract\n\n\nEmulator-based Bayesian optimization for efficient multi-objective calibration\n\n\n\n\n\n\n\n\n\n\n\n\n\nFaculty Enrichment Program in Applied Malaria Modeling\n\n\nChicago, Illinois\n\n\n\n\n\nabstract\n\n\nAn intensive in-person training program for modeling faculty (Program Website)\n\n\n\n\n\n\n\n\n\n\n\n\n\nModeling a Trial of Mass Testing, Tracking, and Treatment with Conventional vs. Ultrasensitive Rapid Diagnostic Tests\n\n\nGreater Accra, Ghana\n\n\n\n\n\nabstract\n\n\nNxtek project brief\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuantifying the Potential Contribution of Asymptomatic Screening, Testing, and Treatment to Malaria Control and Elimination\n\n\nSapone, Burkina Faso\n\n\n\n\n\nabstract\n\n\nINDIE-1a project brief\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "research/research_covid.html",
@@ -21,25 +63,46 @@
     "text": "Tobias M. Holden is a graduate student in the Medical Scientist Training Program at Northwestern University."
   },
   {
-    "objectID": "blog/post1.html",
-    "href": "blog/post1.html",
+    "objectID": "blog/coding_fun/post1.html",
+    "href": "blog/coding_fun/post1.html",
     "title": "Blog Post 1",
     "section": "",
     "text": "My first post"
   },
   {
-    "objectID": "blog/post2.html",
-    "href": "blog/post2.html",
+    "objectID": "blog/coding_fun/post2.html",
+    "href": "blog/coding_fun/post2.html",
     "title": "Blog Post 2",
     "section": "",
     "text": "My second post"
   },
   {
-    "objectID": "blog/post3.html",
-    "href": "blog/post3.html",
-    "title": "Blog Post 3",
+    "objectID": "blog/tastes.html",
+    "href": "blog/tastes.html",
+    "title": "Taste",
     "section": "",
-    "text": "My third post"
+    "text": "My Personal Tastes\n\n\n\n\n\n\n\n\n\n\n\nReading List\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReviews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/coding_fun.html",
+    "href": "blog/coding_fun.html",
+    "title": "Coding Fun",
+    "section": "",
+    "text": "Just because\n\n\n\n\n\n\n\n\n\n\n\nBlog Post 1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBlog Post 2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/tastes/reviews.html",
+    "href": "blog/tastes/reviews.html",
+    "title": "Reviews",
+    "section": "",
+    "text": "Opinions\n\n\n\n\n\n\n\n\n\n\n\nReview 1\n\n\n\nAuthor Name\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/tastes/reading_list.html",
+    "href": "blog/tastes/reading_list.html",
+    "title": "Reading List",
+    "section": "",
+    "text": "Recommended reads\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "cv.html",
@@ -74,6 +137,6 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "Blog Post 1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBlog Post 2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBlog Post 3\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Coding Fun\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTaste\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]

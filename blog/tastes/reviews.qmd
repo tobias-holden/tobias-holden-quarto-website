@@ -1,0 +1,10 @@
+---
+title: Reviews
+listing: 
+  contents: "reviews/*.qmd"
+  type: grid
+  grid-columns: 3
+  fields: [title, author]
+---
+
+Opinions

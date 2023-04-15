@@ -1,9 +1,0 @@
----
-title: "Blog Post 3"
-title-block-banner: "#373A3C"
-format:
-  html:
-    toc: true
----
-
-My third post

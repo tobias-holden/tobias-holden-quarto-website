@@ -1,0 +1,9 @@
+---
+title: "Book 1"
+title-block-banner: blue
+author: "Author Name" 
+format:
+  html:
+    toc: true
+    abstract-title: none
+---

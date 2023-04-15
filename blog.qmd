@@ -2,7 +2,7 @@
 title: "Blog"
 title-block-banner: black
 listing: 
-  contents: blog
+  contents: blog/*.qmd
   type: grid
   grid-columns: 2
 ---

@@ -18,11 +18,34 @@
     ]
   },
   {
+    "listing": "/blog/tastes.html",
+    "items": [
+      "/blog/tastes/reading_list.html",
+      "/blog/tastes/reviews.html"
+    ]
+  },
+  {
+    "listing": "/blog/coding_fun.html",
+    "items": [
+      "/blog/coding_fun/post1.html",
+      "/blog/coding_fun/post2.html"
+    ]
+  },
+  {
+    "listing": "/blog/tastes/reviews.html",
+    "items": [
+      "/blog/tastes/reviews/review1.html"
+    ]
+  },
+  {
+    "listing": "/blog/tastes/reading_list.html",
+    "items": []
+  },
+  {
     "listing": "/blog.html",
     "items": [
-      "/blog/post1.html",
-      "/blog/post2.html",
-      "/blog/post3.html"
+      "/blog/coding_fun.html",
+      "/blog/tastes.html"
     ]
   }
 ]

@@ -1,0 +1,10 @@
+---
+title: "Coding Fun"
+title-block-banner: green
+listing: 
+  contents: coding_fun/*.qmd
+  type: grid
+  grid-columns: 2
+---
+
+Just because

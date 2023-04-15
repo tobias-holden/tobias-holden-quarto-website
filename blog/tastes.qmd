@@ -1,0 +1,10 @@
+---
+title: "Taste"
+title-block-banner: green
+listing: 
+  contents: tastes/*.qmd
+  type: grid
+  grid-columns: 2
+---
+
+My Personal Tastes

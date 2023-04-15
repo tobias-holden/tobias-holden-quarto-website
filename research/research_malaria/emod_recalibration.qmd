@@ -10,3 +10,31 @@ format:
     toc: true
     abstract-title: none
 ---
+
+
+# Motivation
+
+Agent-based models like have **long simulation run-times** and **large numbers of unknown input parameters**, making them difficult to calibrate with iterative sampling-based algorithms  
+
+* Highly irregular, multi-dimensional goodness-of-fit space: local optimum "traps"  
+* Curse of dimensionality: # of evaluations needed scales *exponentially* with # parameters
+
+These issues are compounded when there are multiple fitting objectives.
+
+# Methods
+
+Inspired by [previous work](https://doi.org/10.1038/s41467-021-27486-z) done to recalibrate *Openmalaria*, we used a Gaussian process emulator to drastically reduce the number of simulations that actually have to be run during calibration.
+
+## Method 1
+
+## Method 2
+
+# Results
+
+## Outcome 1
+
+## Outcome 2
+
+# Summary
+
+The point.

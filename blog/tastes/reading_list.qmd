@@ -1,0 +1,10 @@
+---
+title: Reading List
+listing: 
+  contents: "coding_fun/*.qmd"
+  type: grid
+  grid-columns: 3
+  fields: [title, author]
+---
+
+Recommended reads
