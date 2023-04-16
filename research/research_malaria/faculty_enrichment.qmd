@@ -4,7 +4,7 @@ title-block-banner: black
 subtitle: "Chicago, Illinois"
 author: "" 
 doi : ""
-abstract: "An intensive in-person training program for modeling faculty ([Program Website]())"
+description: "An intensive in-person training program for modeling faculty ([Program Website]())"
 format:
   html:
     toc: true

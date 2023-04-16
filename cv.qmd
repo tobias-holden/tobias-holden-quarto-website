@@ -1,76 +1,93 @@
 ---
-title: "CV / Resume"
-title-block-banner: true
+title: ""
 format:
   html:
     toc: true
     toc-depth: 4
 ---
-<center>
-# Tobias M. Holden
-</center>
-
-Tobias M. Holden is a graduate student in the Medical Scientist Training Program at Northwestern University in Chicago, Illinois.
 
 <center>
+
 ## Education
-</center>
-::: {.callout-note icon="false"}
-## Northwestern University Medical Scientist Training Program
-**M.D.** - Doctor of Medicine [2019-2027*]{style="float:right"}
 
-**Ph.D.** - Health & Biomedical Informatics [2021-2025*]{style="float:right"}
-:::
+</center>
+
 ::: {.callout-note icon="false"}
-## Icahn School of Medicine at Mount Sinai
-**NIH PREP** - Post-baccalaureate Research Education Program [2017-2018]{style="float:right"}
+## Northwestern University Medical Scientist Training Program [2019 - 2027^\*^]{style="float:right"}
+
+**M.D.** - Doctor of Medicine  
+**Ph.D.** - Health & Biomedical Informatics
 :::
+
 ::: {.callout-note icon="false"}
-## Yale University
-**B.S.** - Quantitative Biology [2013-2017]{style="float:right"}
+## Icahn School of Medicine at Mount Sinai [2017 - 2018]{style="float:right"}
+
+**NIH PREP** - Post-baccalaureate Research Education Program
 :::
+
 ::: {.callout-note icon="false"}
-## South Carolina Governor's School for Science and Mathematics
-**High School** [2011-2013]{style="float:right"}
+## Yale University [2013 - 2017]{style="float:right"}
+
+**B.S.** - Quantitative Biology 
+:::
+
+::: {.callout-note icon="false"}
+## South Carolina Governor's School for Science and Mathematics [2011 - 2013]{style="float:right"}
+
 :::
 
 <center>
+
 ## Research
+
 </center>
 
 ::: {.callout-tip icon="false"}
 ## Applied Malaria Modeling
-*Northwestern University - Institute for Global Health* [2021 - Now]{style="float:right;"}\
+
+*Northwestern University - Institute for Global Health* [2021 -]{style="float:right;"}\
 Ph.D. thesis with Dr. Jaline Gerardin
 :::
+
 ::: {.callout-tip icon="false"}
 ## COVID-19 Disparities
+
 *Northwestern University - Preventive Medicine* [2020 - 2022]{style="float:right;"}\
 Ph.D. rotation with Dr. Jaline Gerardin
 :::
+
 ::: {.callout-tip icon="false"}
 ## Adolescent Brain & Cognitive Development
+
 *Medical Univeristy of South Carolina - Addiction Sciences* [2018 - 2019]{style="float:right;"}\
 Research Assistant with Dr. Lindsay Squeglia
 :::
+
 ::: {.callout-tip icon="false"}
 ## Cardiac Electrophysiology Modeling
+
 *Icahn School of Medicine at Mount Sinai - Pharmacological Sciences* [2017 - 2018]{style="float:right;"}\
 NIH PREP Scholar with Dr. Eric Sobie
 :::
+
 ::: {.callout-tip icon="false"}
 ## Modeling Collective Bacterial Migration
+
 *Yale University - Molecular, Cellular, and Developmental Biology* [2016 - 2017]{style="float:right;"}\
 B.S. thesis with Dr. Thierry Emonet
 :::
+
 ::: {.callout-tip icon="false"}
 ## Reproductive Stem Cell Biology
+
 *Yale University - Stem Cell Center* [2015 - 2016]{style="float:right;"}\
 STARS Summer Research Fellow with Dr. Winifred Mak
 :::
 
 <center>
+
 ## Awards & Honors
+
 </center>
 
 ::: {.callout-important icon="false"}
@@ -80,16 +97,19 @@ STARS Summer Research Fellow with Dr. Winifred Mak
 -   NIH NIAID National Research Service Award (NRSA) Individual Predoctoral Fellowship
 -   MIDAS Annual Meeting Travel Award
 :::
+
 ::: {.callout-important icon="false"}
 ## 2019
 
 -   Northwestern MSTP Heller Scholarship
 :::
+
 ::: {.callout-important icon="false"}
 ## 2018
 
 -   NIH PREP Regional Symposium: Best Poster
 :::
+
 ::: {.callout-important icon="false"}
 ## 2017
 
@@ -97,23 +117,192 @@ STARS Summer Research Fellow with Dr. Winifred Mak
 -   Yale College Nakanishi Prize (*Nominee*)
 -   Yale College Creative and Performing Arts Grant - Digital Photography
 :::
+
 ::: {.callout-important icon="false"}
 ## 2016
 
 -   Mellon Grant for Undergraduate Research
 :::
+
 ::: {.callout-important icon="false"}
 ## 2015
 
 -   Yale Science Technology and Research Scholars (STARS) Summer Fellowship
 :::
+
 ::: {.callout-important icon="false"}
 ## 2013
 
 -   SC Junior Academy of Science: Best Oral Presentation in Physiology & Health
 :::
+
 ::: {.callout-important icon="false"}
 ## 2012
 
 -   Hoffman-La Roche Research Exchange Scholarship Program (RESP)
+:::
+
+<center>
+
+## Outputs
+
+</center>
+
+<center>
+
+### Grants
+
+</center>
+
+::: {.callout-caution icon="false"}
+## Quantifying the potential contribution of asymptomatic screening and treatment to malaria control and elimination
+
+NIH National Institute of Allergy and Infectious Disease [(Project # 1F31AI172387-01)](https://reporter.nih.gov/search/bmib59ow1k27pfHhS-fxHg/project-details/10537580)
+
+In regions where malaria transmission is high, chronic asymptomatic malaria infections are common and are major contributors to continued transmission of malaria. A recent field trial showed that asymptomatic screening, testing, and treatment (STT) interventions could reduce transmission from humans to mosquitoes. In this study, I will use agent-based modeling to evaluate the potential impact and cost- effectiveness of STT on long-term malaria control and elimination across a diverse set of epidemiological settings.
+:::
+
+<center>
+
+### Publications
+
+</center>
+::: {.callout-caution icon="false"}
+## Tracking changes in SARS-CoV-2 transmission with a novel outpatient sentinel surveillance system in Chicago, USA
+Reese Richardson, Emile Jorgensen, Philip Arevalo, **Tobias M. Holden**, Katelyn M. Gostic, Massimo Pacilli, Isaac Ghinai, Shannon Lightner, Sarah Cobey & Jaline Gerardin. *Nature Communications* 13, 5547 (2022) [Read Here](https://doi.org/10.1038/s41467-022-33317-6)
+:::
+::: {.callout-caution icon="false"}
+## Modeling robust COVID-19 intensive care unit occupancy thresholds for imposing mitigation to prevent exceeding capacities
+
+Manuela Runge, Reese A. K. Richardson, Patrick A. Clay, Arielle Bell, **Tobias M. Holden**, Manisha Singam, Natsumi Tsuboyama, Philip Arevalo, Jane Fornoff, Sarah Patrick, Ngozi O. Ezike, Jaline Gerardin. *PLoS Global Public Health* 2, e0000308 (2022) [Read Here](https://doi.org/10.1371/journal.pgph.0000308)
+:::
+
+::: {.callout-caution icon="false"}
+## Structural racism and COVID-19 response: higher risk of exposure drives disparate COVID-19 deaths among Black and Hispanic/Latinx residents of Illinois, USA
+
+**Tobias M. Holden**, Melissa A. Simon, Damon T. Arnold, Veronica Halloway & Jaline Gerardin. *BMC Public Health*, 22, 312 (2022) [Read Here](https://doi.org/10.1186/s12889-022-12698-9)
+:::
+
+::: {.callout-caution icon="false"}
+## Geographic and demographic heterogeneity of SARS-CoV-2 diagnostic testing in Illinois, USA, March to December 2020
+
+**Tobias M. Holden**^+^, Reese A. K. Richardson^+^, Philip Arevalo, Wayne A. Duffus, Manuela Runge, Elena Whitney, Leslie Wise, Ngozi O. Ezike, Sarah Patrick, Sarah Cobey & Jaline Gerardin. *BMC Public Health*, 21, 1105 (2021) [Read Here](https://doi.org/10.1186/s12889-021-11177-x)
+:::
+
+::: {.callout-caution icon="false"}
+## An important role of pumilio 1 in regulating the development of the mammalian female germline
+Winifred Mak, Caodi Feng, **Tobias Holden**, Milana Bockhur Dratver, Haifan Lin. *Biology of Reproduction*, Volume 94, Issue 6, 01 June 2016, 134-1-11. [Read Here](https://doi.org/10.1095/biolreprod.115.137497)
+:::
+
+<center>
+
+### Presentations
+
+</center>
+
+::: {.callout-caution icon="false"}
+## Johns Hopkins University World Malaria Day
+
+[Recalibration of a mathematical model of malaria transmission with parasite and infectivity data from Burkina Faso]{.smallcaps}<br>*Lightning Talk*, 2022
+:::
+
+::: {.callout-caution icon="false"}
+## American Society of Tropical Medicine & Hygiene Annual Meeting
+
+[Recalibration of within-host parameters in an agent based malaria transmission based on the INDIE-1a trial]{.smallcaps}  <br>*Poster*, 2022
+
+[Structural racism and COVID-19 response: Higher risk of exposure drives disparate COVID-19 deaths among Black and Hispanic/Latinx residents of Illinois, USA]{.smallcaps}  <br>*Oral Presentation*, 2022
+:::
+
+::: {.callout-caution icon="false"}
+## Feinberg School of Medicine Lewis Landsberg Research Day
+
+[Inferring the effect of participant migration on outcomes from a clinical trial of malaria mass testing, treatment, and tracking interventions in Greater Accra, Ghana: an agent-based modeling study]{.smallcaps}  <br>*Poster*, 2022
+:::
+
+::: {.callout-caution icon="false"}
+## Robert J. Havey, MD Institute for Global Health: Global Health Day
+
+[Constructing, calibrating, and validating an agent-Based Model of interventions to detect & treat asymptomatic malaria: Simulating the INDIE trial in Burkina Faso]{.smallcaps}  <br>*Poster*, 2022
+
+[Simulating interventions for screening, testing, and treating asymptomatic malaria infections]{.smallcaps}  <br>*Poster*, 2021
+:::
+
+::: {.callout-caution icon="false"}
+## NIH PREP Regional Symposium
+
+[Optimization of *in silico* hSC-CM model for preclinical pro-arrhythmia assessment and an app-based approach to collaborative drug safety screening]{.smallcaps}<br>*Poster*, 2018
+:::
+
+<center>
+
+
+## Activities
+
+</center>
+
+::: {.callout-warning icon="false"}
+## ACM Special Interest Group on High-Performance Computing [2022 -]{style="float:right"}
+:::
+
+::: {.callout-warning icon="false"}
+## Applied Malaria Modeling Network (AMMnet) [2022 -]{style="float:right"}
+
+Seminar committee member
+:::
+
+::: {.callout-warning icon="false"}
+## American Society of Tropical Medicine and Hygiene (AMMnet) [2021 -]{style="float:right"}
+:::
+
+::: {.callout-warning icon="false"}
+## Models of Infectious Disease Agent Study (MIDAS) Network [2021 -]{style="float:right"}
+:::
+
+::: {.callout-warning icon="false"}
+## Northwestern University MSTP Admissions Committee [2021 -]{style="float:right"}
+
+Application screener & interviewer
+:::
+
+::: {.callout-warning icon="false"}
+## Erie Family Health Center (Humboldt Park) Education-Centered Medical Home [2019 -]{style="float:right"}
+
+Student doctor
+:::
+
+::: {.callout-warning icon="false"}
+## American Physician Scientists Association (APSA) [2021 -]{style="float:right"}
+:::
+
+::: {.callout-warning icon="false"}
+## Illinois Department of Public Health Data Equity Working Group [2020 - 2022]{style="float:right"}
+:::
+
+::: {.callout-warning icon="false"}
+## MSTP Student Council [2021 - 2022]{style="float:right"}
+
+Co-President
+:::
+
+::: {.callout-warning icon="false"}
+## Generation NU (1st Generation Student Group) [2020 - 2021]{style="float:right"}
+
+Co-founder
+:::
+
+::: {.callout-warning icon="false"}
+## GetMePPE Chicago (COVID-19 community aid non-profit) [2015 - 2016]{style="float:right"}
+
+Volunteer Data Analyst
+:::
+
+::: {.callout-warning icon="false"}
+## Medical University of South Carolina Pathology Informatics Group [2018 - 2019]{style="float:right"}
+:::
+
+::: {.callout-warning icon="false"}
+## Simplex Sciences Biotech Venture [2015 - 2016]{style="float:right"}
+
+Co-Founder
 :::

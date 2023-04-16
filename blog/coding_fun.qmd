@@ -1,6 +1,6 @@
 ---
 title: "Coding Fun"
-title-block-banner: green
+title-block-banner: "#373A3C"
 listing: 
   contents: coding_fun/*.qmd
   type: grid

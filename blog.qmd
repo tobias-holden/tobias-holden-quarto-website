@@ -1,6 +1,6 @@
 ---
-title: "Blog"
-title-block-banner: black
+title: ""
+title-block-banner: true
 listing: 
   contents: blog/*.qmd
   type: grid

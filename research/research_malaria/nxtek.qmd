@@ -3,7 +3,7 @@ title: "Modeling a Trial of Mass Testing, Tracking, and Treatment with Conventio
 title-block-banner: black
 subtitle: "Greater Accra, Ghana"
 author: "" 
-abstract: "Nxtek project brief"
+description: "Nxtek project brief"
 doi : ""
 format:
   html:

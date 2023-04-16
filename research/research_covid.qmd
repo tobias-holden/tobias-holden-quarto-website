@@ -2,19 +2,21 @@
 title: "COVID-19"
 title-block-banner: black
 listing:
+  id: covid-publications
   type: grid
   contents: research_covid/*.qmd
   fields: [title, author, subtitle, date]
   grid-columns: 1
 ---
 
-### Overview
+### Projects
 
 Narrative
 
-Research aims
-
-1.  
-2.  
+From 2020-2022 I ...
 
 ### Publications
+
+:::{#covid-publications}
+
+:::

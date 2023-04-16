@@ -1,6 +1,6 @@
 ---
 title: "Review 1"
-title-block-banner: blue
+title-block-banner: green
 author: "Author Name" 
 format:
   html:

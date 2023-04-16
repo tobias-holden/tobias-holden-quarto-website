@@ -4,7 +4,7 @@ title-block-banner: black
 subtitle: "Sapone, Burkina Faso"
 author: "" 
 doi : ""
-abstract: "INDIE-1a project brief"
+description: "INDIE-1a project brief"
 format:
   html:
     toc: true

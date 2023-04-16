@@ -1,5 +1,6 @@
 ---
 title: Reviews
+title-block-banner: green
 listing: 
   contents: "reviews/*.qmd"
   type: grid

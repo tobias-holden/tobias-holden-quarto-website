@@ -2,12 +2,23 @@
 title: "Malaria"
 title-block-banner: black
 listing:
+  id: malaria-projects
   type: grid
   contents: research_malaria/*.qmd
-  fields: [title, subtitle, abstract]
+  fields: [title, subtitle, description]
   grid-columns: 2
+
 ---
 
 My research on *Plasmodium falciparum* malaria
 
+### Projects
 
+:::{#malaria-projects}
+
+:::
+
+
+### Publications
+
+Check back for published work!

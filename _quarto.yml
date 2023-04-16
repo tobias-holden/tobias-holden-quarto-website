@@ -4,17 +4,25 @@ project:
 
 website:
   title: "Tobias M. Holden"
-  navbar:
+  sidebar:
     background: primary
-    foreground: light
-    left:
+    style: "floating"
+    search: true
+    contents: 
       - href: cv.qmd
         text: "CV"
-      - text: "Research"
-        menu: 
+      - section: "Research"
+        contents:
           - research/research_covid.qmd
+          
           - research/research_malaria.qmd
-      - blog.qmd
+      - section: "Blogs"
+        contents: 
+          - blog/coding_fun.qmd
+          - section: "Tastes"
+            contents: 
+              - blog/tastes/reading_list.qmd
+              - blog/tastes/reviews.qmd
   page-footer: "© Tobias M. Holden 2023"
 
 format:

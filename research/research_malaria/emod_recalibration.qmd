@@ -4,20 +4,19 @@ title-block-banner: black
 subtitle: "Basel, Switzerland"
 author: "" 
 doi : ""
-abstract: "Emulator-based Bayesian optimization for efficient multi-objective calibration"
+description: "Emulator-based Bayesian optimization for efficient multi-objective calibration"
 format:
   html:
     toc: true
     abstract-title: none
 ---
 
-
 # Motivation
 
-Agent-based models like have **long simulation run-times** and **large numbers of unknown input parameters**, making them difficult to calibrate with iterative sampling-based algorithms  
+Agent-based models like have **long simulation run-times** and **large numbers of unknown input parameters**, making them difficult to calibrate with iterative sampling-based algorithms
 
-* Highly irregular, multi-dimensional goodness-of-fit space: local optimum "traps"  
-* Curse of dimensionality: # of evaluations needed scales *exponentially* with # parameters
+-   Highly irregular, multi-dimensional goodness-of-fit space: local optimum "traps"\
+-   Curse of dimensionality: \# of evaluations needed scales *exponentially* with \# parameters
 
 These issues are compounded when there are multiple fitting objectives.
 
